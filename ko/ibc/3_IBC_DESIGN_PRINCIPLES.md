@@ -1,6 +1,6 @@
 # 2: IBC 디자인 원칙
 
-**This is an explanation of the "design principles" of IBC.**
+**이것은 IBC의 "디자인 원칙"에 대한 설명입니다.**
 
 **IBC에서 사용되는 용어들의 정의는, [여기](./1_IBC_TERMINOLOGY.md)를 참조 하십시오.**
 
